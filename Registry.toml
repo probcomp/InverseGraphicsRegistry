@@ -5,3 +5,4 @@ description = "InverseGraphicsRegistry"
 
 [packages]
 3bb1c1c2-7757-4fec-887f-d291af7e88d4 = { name = "MeshCatViz", path = "M/MeshCatViz" }
+d1e26eb4-c061-4a47-b8d4-4152ce573b03 = { name = "GLRenderer", path = "G/GLRenderer" }
