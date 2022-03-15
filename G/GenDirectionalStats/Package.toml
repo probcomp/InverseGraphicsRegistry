@@ -1,0 +1,3 @@
+name = "GenDirectionalStats"
+uuid = "85d806fb-b5ca-4d38-9c94-d1c1a6747d55"
+repo = "git@github.com:probcomp/GenDirectionalStats.jl"
