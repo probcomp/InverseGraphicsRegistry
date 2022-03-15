@@ -1,0 +1,3 @@
+name = "MiniGSG"
+uuid = "888bd7f2-f8c6-44ef-b90f-8999fb25fa02"
+repo = "git@github.com:probcomp/MiniGSG.jl"
