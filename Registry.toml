@@ -4,3 +4,4 @@ repo = "git@github.com:probcomp/InverseGraphicsRegistry.git"
 description = "InverseGraphicsRegistry"
 
 [packages]
+3bb1c1c2-7757-4fec-887f-d291af7e88d4 = { name = "MeshCatViz", path = "M/MeshCatViz" }
