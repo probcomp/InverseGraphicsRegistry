@@ -5,6 +5,7 @@ description = "InverseGraphicsRegistry"
 
 [packages]
 3bb1c1c2-7757-4fec-887f-d291af7e88d4 = { name = "MeshCatViz", path = "M/MeshCatViz" }
+4b85a743-8232-4f48-902e-cd249a333b61 = { name = "InverseGraphics", path = "I/InverseGraphics" }
 85d806fb-b5ca-4d38-9c94-d1c1a6747d55 = { name = "GenDirectionalStats", path = "G/GenDirectionalStats" }
 888bd7f2-f8c6-44ef-b90f-8999fb25fa02 = { name = "MiniGSG", path = "M/MiniGSG" }
 d1e26eb4-c061-4a47-b8d4-4152ce573b03 = { name = "GLRenderer", path = "G/GLRenderer" }
