@@ -13,3 +13,7 @@ PoseComposition = "0a8ab332-79e8-43e0-a313-949ce1168071"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
+
+["0.1.5-0"]
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
