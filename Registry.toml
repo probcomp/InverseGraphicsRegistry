@@ -4,6 +4,7 @@ repo = "git@github.com:probcomp/InverseGraphicsRegistry.git"
 description = "InverseGraphicsRegistry"
 
 [packages]
+38ed6c62-afb3-4a05-8af9-4104512be020 = { name = "GenArrow", path = "G/GenArrow" }
 3bb1c1c2-7757-4fec-887f-d291af7e88d4 = { name = "MeshCatViz", path = "M/MeshCatViz" }
 3f517155-95b4-4010-b517-e038c017d66c = { name = "Plinf", path = "P/Plinf" }
 4b85a743-8232-4f48-902e-cd249a333b61 = { name = "InverseGraphics", path = "I/InverseGraphics" }
