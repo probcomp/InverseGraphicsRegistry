@@ -1,6 +1,6 @@
 name = "InverseGraphicsRegistry"
 uuid = "7d83f869-d38f-4bdf-bfd8-976e498b1c96"
-repo = "git@github.com:probcomp/InverseGraphicsRegistry.git"
+repo = "https://github.com/probcomp/InverseGraphicsRegistry.git"
 description = "InverseGraphicsRegistry"
 
 [packages]
